@@ -1,0 +1,91 @@
+commit ae98f0f29925b639c6ee88f9b6cf346618ddbb47
+Author: A. Villaseñor <adrovipa@outlook.com>
+Date:   Fri May 12 11:01:28 2023 -0600
+
+    Agregando dos parrafos
+
+commit a4673e2485443d7248ea63248c1f8b581eec3bc7
+Author: A. Villaseñor <adrovipa@outlook.com>
+Date:   Fri May 12 10:54:38 2023 -0600
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 1fb9c5c32b48df02cf74db7fc20436d34b917185
+Author: A. Villaseñor <adrovipa@outlook.com>
+Date:   Fri May 12 10:23:03 2023 -0600
+
+    Agregando las estaciones del año
+
+commit 791befdb5bfe6e6b742774392940cbf789d8a2e4
+Merge: 1c89caf 8e466c4
+Author: A. Villaseñor <adrovipa@outlook.com>
+Date:   Thu May 11 11:27:42 2023 -0600
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 8e466c4a16fe82724fe670ebd2e8cf7ec1935b46
+Author: A. Villaseñor <adrovipa@outlook.com>
+Date:   Thu May 11 11:19:08 2023 -0600
+
+    Agregando index.js al index.html
+
+commit 1c89cafffe14bfde2824a0df95aa4e9c9838ebbe
+Author: A. Villaseñor <adrovipa@outlook.com>
+Date:   Thu May 11 11:16:21 2023 -0600
+
+    Agregando style.css al index.html
+
+commit 57cf30d08b7adc757b353a48bb46d943f19e8104
+Merge: 40dd997 330d02c
+Author: A. Villaseñor <adrovipa@outlook.com>
+Date:   Thu May 11 10:53:37 2023 -0600
+
+    Merge branch 'js'
+
+commit 330d02c3476528d556e7d42e9372e24e7bbc543e
+Author: A. Villaseñor <adrovipa@outlook.com>
+Date:   Thu May 11 10:44:04 2023 -0600
+
+    Creando index.js
+
+commit 40dd9976c76f0f3292d7b565b41cb6e2579594db
+Author: A. Villaseñor <adrovipa@outlook.com>
+Date:   Thu May 11 10:39:38 2023 -0600
+
+    Creando style.css
+
+commit df6ccab8d8acdaae11072730a6501210352cea6d
+Author: A. Villaseñor <adrovipa@outlook.com>
+Date:   Thu May 11 10:23:38 2023 -0600
+
+    Creando index.html
+
+commit 24f601443ab3497484ff2abd96e48171015df7bc
+Author: A. Villaseñor <adrovipa@outlook.com>
+Date:   Wed May 10 13:54:22 2023 -0600
+
+    Ignorando archivos .exe
+
+commit 4875dacc314cfba202d1f100c2bf4296d3df8b69
+Author: a-villasenor <133049965+a-villasenor@users.noreply.github.com>
+Date:   Tue May 9 13:38:11 2023 -0600
+
+    Creando licencia del repositorio
+
+commit 668329aba7c74aca68d87e07185a15738dd432b0
+Author: A. Villaseñor <adrovipa@outlook.com>
+Date:   Tue May 9 13:27:54 2023 -0600
+
+    Agregando mas contenido al README
+
+commit 1f07b59965c1b54ea0985f5bbdfd10959ce1c18a
+Author: A. Villaseñor <adrovipa@outlook.com>
+Date:   Mon May 8 18:18:26 2023 -0600
+
+    Agregando contenido inicial al README
+
+commit 9e5278980dd3d35a36ffd715a800ed7646030f65
+Author: A. Villaseñor <adrovipa@outlook.com>
+Date:   Mon May 8 18:09:11 2023 -0600
+
+    Primer commit
